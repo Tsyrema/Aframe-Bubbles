@@ -1,6 +1,6 @@
 // Step 3: Acessing the scene
 var scene = document.querySelector('a-scene');
-
+var i = 0 ;
 // Use a for loop to generate the spheres
 for (i = 0; i < 1000; i++) {
 
